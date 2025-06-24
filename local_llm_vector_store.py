@@ -6,6 +6,7 @@ from langchain_community.docstore import InMemoryDocstore
 from langchain_openai import OpenAIEmbeddings
 from langchain_core.documents import Document
 from langchain.chat_models import init_chat_model
+from langchain_ollama import ChatOllama, OllamaEmbeddings
 
 docs_dir = "docs"
 documents = []
@@ -20,7 +21,11 @@ for root, dirs, files in os.walk(docs_dir):
 
 
 llm = init_chat_model("gpt-4o-mini", model_provider="openai")
+# llm = ChatOllama(model="llama3", temperature=0.1, top_p=0.95)
 embeddings = OpenAIEmbeddings(model="text-embedding-3-large")
+# embeddings = OllamaEmbeddings(model="llama3")
+
+
 
 index = faiss.IndexFlatL2(len(embeddings.embed_query("hello world")))  # Create a flat index for L2 distance
 vector_store = FAISS(
