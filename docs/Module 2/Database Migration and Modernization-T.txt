@@ -1,0 +1,30 @@
+Running modern applications on legacy, on-premises
+databases requires overcoming expensive, time-consuming challenges around latency, throughput, availability,
+and scaling. With database modernization, organizations
+can move data from traditional databases to fully managed or modern databases with relative
+ease. There are different ways that an organization
+can migrate or modernize their current database in the cloud. The most straightforward method is a lift
+and shift platform migration. This is where databases are migrated from
+on-premises and private cloud environments to the same type of database hosted by a public
+cloud provider, such as Google Cloud. Although this solution makes the database
+more difficult to modernize, it does bring with it the benefits of minimal upheaval,
+and having data and infrastructure managed by the cloud provider. Alternatively, a managed database migration
+allows the migration of databases from SQL Server, MySQL, PostgreSQL, and others to a
+fully managed Google Cloud database. Although this migration requires careful planning
+and might cause slight upheaval, a fully managed solution lets you focus on higher priority
+work that really adds value to your organization. Google Cloud’s Database Migration Service
+(DMS) can easily migrate your databases to Google Cloud, or Datastream can be used to
+synchronize data across databases, storage systems, and applications. Let’s look at a real life use case. With 18 fulfillment centers, 38 delivery centers,
+and a catalog of more than 22 million items, the online retailer Wayfair needed a way to
+quickly move from their on-premises data centers, which ran on SQL Server, to Google Cloud. This had to be achieved without inconveniencing
+their team of over 3,000 engineers, their tens of millions of customers, or their 16,000
+supplier partners. So, the goal was to lift and shift their workloads
+as quickly as possible with minimal changes, and then use cloud databases to modernize
+those workloads. Wayfair chose Google Cloud because of the
+clear path for shifting workloads to the cloud by using Cloud SQL for SQL Server. Google Cloud provided the flexibility to be
+deliberate about which engine and product to run Wayfair’s systems on going forward. They liked how they could run SQL Server on
+virtual machines (VMs), for example, but could also benefit from database offerings like
+Cloud SQL and Spanner. Now that migration is complete, they also
+use Google Kubernetes Engine (GKE) and Compute Engine VMs to host the services built by the
+Google Cloud team. They also use Pub/Sub and Dataflow for sending
+operational data to their analytical store in BigQuery.

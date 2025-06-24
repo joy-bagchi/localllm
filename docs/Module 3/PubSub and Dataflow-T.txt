@@ -1,0 +1,33 @@
+One of the early stages in a Data
+pipeline is Data Ingestion, which is where large amounts of
+streaming data are received. Data, however, might not always come
+from a single structured database. Instead, the data might
+stream from a thousand or even a million different events that
+are all happening asynchronously. A common example of this data is from IoT,
+or Internet of Things applications. These can include sensors on taxis that
+send out location data every 30 seconds or temperature sensors around a data center
+to help optimize heating and cooling. Pub/Sub is a distributed messaging service
+that can receive messages from various device streams, such as gaming events,
+IoT devices, and application streams. The name is short for Publisher/Subscriber
+or Publish messages to subscribers. After messages have been captured
+from the streaming input sources, you need a way to pipe that data
+into a data warehouse for analysis. This is where Dataflow comes in. Dataflow creates a pipeline to process
+both streaming data and Batch Data. Process, in this case,
+refers to the steps to extract, transform, and load data,
+sometimes referred to as ETL. A popular solution for
+pipeline design is Apache Beam. It's an open source, unified programming
+model to define and execute data processing pipelines, including ETL,
+batch, and stream processing. Dataflow handles much of the complexity
+for infrastructure setup and maintenance and
+is built on Google's infrastructure. This product allows for reliable auto
+scaling to meet data pipeline demands. Dataflow is serverless and fully managed. Serverless computing means that software
+developers can build and run applications without having to provision or
+manage the backend infrastructure. For example, Google Cloud manages infrastructure
+tasks on behalf of the users, like resource provisioning, performance
+tuning, and ensuring pipeline reliability. And a fully managed environment is one
+where software can be deployed, monitored, and managed without needing
+an operations team. You can create this environment by using
+automation tools and technologies. Using a serverless and fully managed
+solution like Dataflow means that you can spend more time analyzing
+the insights from your datasets and less time provisioning resources to ensure
+your pipeline will successfully complete its next cycles.

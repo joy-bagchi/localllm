@@ -1,0 +1,42 @@
+Data traditionally
+is moved in batches. Batch processing often
+processes large volumes of data at the same time with
+long periods of latency. An example is payroll
+and billing systems that have to be processed on either
+a weekly or monthly basis. Although this approach can be efficient to handle
+large volumes of data, it doesn't work with time sensitive data
+that's meant to be streamed because that data can be staled by the
+time it's processed. Streaming analytics
+is the processing and analyzing of data records continuously instead
+of in batches. Generally, streaming
+analytics is useful for all types of data sources that
+send data in small sizes, often in kilobytes, in a continuous flow as
+the data is generated. This results in the analysis and reporting of
+events as they happen. Sources of streaming
+data include equipment sensors, clickstreams, social media feeds,
+stock market quotes, app activity, and more. Companies use
+streaming analytics to analyze data in real
+time and provide insights into a wide range of activities such as metering, server activity, geolocation of devices or website clicks. Use cases include e-commerce. User clickstreams
+can be analyzed to optimize the shopping experience
+with real time pricing, promotions, and
+inventory management. Financial services. Account activity can
+be analyzed to detect abnormal behavior
+in the data stream and generate a security alert. Investment services. Market changes can be tracked in settings adjusted to
+customer portfolios based on configure
+constraints such as selling when a certain
+stock value is reached. News media. User click records can be streamed from various news source platforms, and the data can be enriched
+with demographic information to better serve articles that are relevant to the
+targeted audience. Utilities. Throughput
+across a power grid can be monitored and
+alerts generated, or workflows initiated when established thresholds
+are reached. Google Cloud offers two main
+streaming analytics products to ingest, process, and analyze event
+streams in real time, which makes data more useful and accessible from the
+instant it's generated. Pub/Sub ingests
+hundreds of millions of events per second, but data flow
+unifies streaming in batch data analysis and builds
+cohesive data pipelines. A data pipeline
+represents a series of actions or stages
+that ingest raw data from different
+sources and then move that data to a destination
+for storage and analysis. You'll explore these products in more detail in the next section.

@@ -1,0 +1,60 @@
+In the last decade, the amount of data produced
+has increased exponentially, and the Cloud has made
+it easier to collect, store, and analyze
+it at a lower cost. Organizations are
+now challenged to democratize and embed
+data in every decision, while they also ensure that it's secure and protected
+from unauthorized use. An effective data
+governance program can help implement data
+directives to achieve this. But what exactly is
+data governance? Data governance means
+setting internal standards, data policies that apply
+to how data is gathered, stored, processed,
+and disposed of. It governs who can
+access certain data, what data is under governance. It also involves complying with external standards set by
+industry associations, government agencies,
+and other stakeholders. Data governance
+focuses on making the data available to
+all stakeholders across the full life cycle of the data in a form that they
+can readily access and use, in a manner that generates the desired business outcomes through insights and analysis, and if relevant, in a way that conforms to regulatory
+standards and compliance needs. Data governance brings
+several benefits. It makes data more valuable. Data Governance
+implements processes to ensure high quality
+data and provides a platform that makes
+it easier to share data securely with stakeholders
+across the organization. It helps users make better, more timely decisions,
+through data governance. Users throughout an
+organization get the data they need to reach
+and service customers, design and improve products and services and seize
+opportunities for new revenues. By democratizing data, organizations can embed data
+in all decision making. It improves cost controls. Data helps organizations manage resources and operate
+more efficiently. Because they can eliminate
+data duplication caused by information silos, they don't overbuy and have to maintain expensive hardware. It enhances regulatory
+compliance. An increasingly
+complex regulatory climate has made it more important for organizations to establish rigorous data
+governance practices. They avoid risks associated with noncompliance and proactively
+anticipate new regulations. It helps earn greater trust
+from customers and suppliers. By being in auditable
+compliance with both internal and
+external data policies, organizations gain the trust
+of customers and partners. It helps manage risk. With robust data governance, organizations can reduce
+concerns about exposure of sensitive data to individuals or systems who lack
+proper authorization. Security breaches from
+malicious, outsiders, or even insiders who access data they don't have
+the right to see. It allows more personnel
+access to more data. Strong data governance provides confidence that the right
+personnel get access to the right data and that this democratization
+of data does not negatively impact
+the organization. It's possible that
+organizations without an effective data
+governance program will suffer from
+compliance violations. This can lead to finds poor data quality
+which generates lower quality insights that
+impact business decisions. Challenges in finding
+data which results in delayed analysis and missed
+business opportunities, and poorly trained
+data models for AI, which reduces the model accuracy and benefits of using AI. Every organization
+needs data governance. As businesses throughout
+all industries progress on their digital
+transformation journeys, data has quickly become the most valuable
+asset they possess.

@@ -1,0 +1,58 @@
+When you think about
+data processing, it's important to
+place it within the broader context of
+the data value chain. Imagine data traveling
+along an assembly line, like a car in a factory. The assembly line
+progressively adds parts and value to an
+object that moves along it. Raw data at the beginning
+of the line is eventually transformed into actions that
+humans or machines take. Let's examine the steps
+in this data value chain. Data genesis is the initial
+creation of a unit of data. This could be a click on a
+website, the swipe of a card, a sensor recording
+from an IoT device, or countless other examples. It's the raw material
+that will eventually be turned into an insight
+ready for action. Data collection brings
+that initial unit of data to the assembly
+line through ingestion. The basic function of ingestion
+is to extract data from the system in which it's hosted and bring it
+to a new system. It could have dramatically
+different requirements based on the volume, velocity, and variety of the raw
+data that's required for a given analysis and how fast the data needs
+to be analyzed. Data processing is where the collected raw
+data is transformed into a form that's ready
+to derive insights from. The data will likely need
+to be adjusted for example, by merging different
+datasets together. It can be a single-stage
+operation or can be a complex tree of
+cascading procedures. In our manufacturing
+process analogy, this phase is where raw
+materials take the shape of the pre-assembly parts
+of a manufactured product. Data storage is where
+the data lands can be found and is ready
+for analysis and action. As with real-world
+manufacturing, where storage options vary depending on the type of
+product that is processed, different types of data can
+be stored in different ways. For example, NoSQL is available for fast
+reads and writes, data warehousing for
+fast access to analysis, and object storage for
+unstructured data. There are also
+customized options of these standard stores. Data analysis provides direction for
+business-oriented action. To continue with
+our manufacturing line analogy in this stage, inputs from the data
+processing stage are assembled into
+a final product. Finally, the last step in the data value chain
+is data activation. When an analysis is produced, it needs to be pushed to the relevant business procedures and decision-makers so
+that action can be taken and the value
+chain completed. The most common points
+of activation are applications that make
+automated decisions, and business intelligence
+dashboards that guide humans toward better,
+more informed decisions. In our manufacturing
+line example, this is the step where a
+fully produced product is put to its intended use. There's no one way to
+assemble a data value chain, as there's no one way to create a real-world manufacturing line. Similarly, as
+technologies progress, new inputs become available, your workforce evolves, or
+the desired output changes. The optimal value chain
+will also change. However, at its core, the value chain principles hold. We want to use raw data to perform actions that
+benefit the business.

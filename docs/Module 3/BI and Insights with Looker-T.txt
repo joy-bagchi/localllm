@@ -1,0 +1,51 @@
+When data is in a database,
+a fair amount of effort and expertise might still be
+required to uncover insights. This goal can be achieved by using
+a business intelligence solution. However, the challenge that organizations
+often face is identifying the right business intelligence solution. Some solutions are too complex and not accessible by those outside the data
+engineering or data analysis teams. The this means other teams have
+to put in requests and wait for answers which defeats the purpose
+of gaining real-time insights. Other solutions let everyone in the
+business perform their own data analysis, but they can only perform their analysis
+with a selection of the available data. This means that only a few people or
+possibly no one, has a full view of
+the organization's business data. Looker is a Google Cloud business
+intelligence platform designed to help individuals and teams analyze,
+visualize and share data. This includes creating
+interactive dashboards and reports that are easy to understand and
+share. By having a reliable authority for
+business data, anyone on a team can explore it, ask and answer their own
+questions, and create visualizations. This approach empowers organizations
+to not just uncover insights, but also act on them. Looker supports BigQuery, along with
+more than 60 different SQL databases. Together, BigQuery and Looker provide
+rich interactive dashboards and reports without compromising performance,
+scale, security or data freshness. Looker is also 100% web based, which
+makes it easy to integrate into existing workflows and share with multiple
+teams at an organization. So how can Looker be used? Let's explore an example. Diamond Resorts, a global leader in
+hospitality offers destinations, events and experiences to help
+people recharge, connect and enjoy. They had previously used a mixture
+of complex Excel workbooks and legacy BI tools to track
+important metrics. Each business unit operated and
+ran their own silo data initiatives. As a result, there were no common view
+of business or single authority for common metrics,
+redundant data engineering efforts. Because work was never shared or
+used across the organization, and inconsistent project prioritization
+because decisions were driven primarily on intuition as
+opposed to actual data. Also, infrastructure did not meet business
+requirements with executive reporting efforts that took months to complete. Data that was duplicative across multiple
+business units without proper governance, multiple reporting tools and
+data warehouses throughout the business. And infrastructure that didn't support
+advanced analytics aspirations. Diamond Resorts wanted to create a single
+common Cloud-based architecture that was fully managed. Establishing data governance and enabling
+the business to be more data-driven while they set the foundation for
+advanced analytics efforts. They migrated to the Cloud and began using
+Looker to help improve business agility. This decision let them gain access to
+real-time insights in less than three months. It helped them to navigate COVID changes
+with important operational metrics such as daily booking and cancellations, while it
+also provided a 360 degree customer view. And in addition to this manual,
+reporting for the yield management team was
+decreased by hours each day. The Chief Information Officer said
+projects that we anticipated coming in future years were suddenly ready
+to be tackled within weeks. This is just one example of how an
+effective business intelligence solution can let businesses transform to
+better serve their customers.
